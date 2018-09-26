@@ -1,0 +1,28 @@
+body {
+    background: rgb(131, 9, 9) ;
+    margin: 0px;
+    padding : 0px ;
+    font-size: 19px ;
+
+
+}
+header {
+    text-align: center;
+    color: white;
+}
+
+.myinfo {
+    border : 3px solid orange;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    
+}
+
+a {
+    text-decoration: none;
+
+}
+ a:hover { 
+    color:rgb(150, 144, 144);
+    font-weight:bold; 
+}
